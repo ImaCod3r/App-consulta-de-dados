@@ -1,0 +1,19 @@
+# Projecao HTML
+- Um formulario
+    - Uma barra de input
+    - Um botao de envio
+- Um campo de apresentacao dos dados
+    - Um cartao 
+- Um campo de creditos
+    - rodape 
+
+# Estilizacao CSS
+- Mobile first
+- Animacoes de entrada
+- Posicionamento dos dados com flexbox
+
+# Configurando requisicao
+- Fetch assincrono
+
+# Renderizar dados
+- Inner html
