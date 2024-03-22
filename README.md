@@ -7,7 +7,7 @@ A app precisa apenas do seu Id(ou NIF) para extrair os seus dados através de um
 
 ## Screenshots
 
-![App Screenshot](.github/preview.png)
+<img src=".github/preview.png" />
 Veja o app rodando agora([Aqui](https://imacod3r.github.io/App-consulta-de-dados//))
 
 
